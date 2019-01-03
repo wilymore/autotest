@@ -12,7 +12,7 @@ from HTMLTestReportCN import HTMLTestRunner
 
 # 邮箱登录信息，包括发件人、收件人、抄送人、密送
 username = '382915567@qq.com'
-password = 'kxehdkuotsttbhag'
+password = 'xxx'
 sender = '382915567@qq.com'  # 发件人邮箱
 receiver = 'medo2008@163.com,1102226174@qq.com'  # 多人逗号分开
 cc = 'mowencong@sina.com'  # 抄送邮箱, 多人逗号分开
